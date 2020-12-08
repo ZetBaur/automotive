@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+@font-face {
+	font-family: 'COUTURE';
+	src: url('fonts/COUTURE-Bold.eot');
+	src: local('☺'), url('fonts/COUTURE-Bold.woff') format('woff'), url('fonts/COUTURE-Bold.ttf') format('truetype'), url('fonts/COUTURE-Bold.svg') format('svg');
+	font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+	font-family: 'Corsiva';
+	src: url('fonts/monotype_corsiva.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/monotype_corsiva.eot') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/monotype_corsiva.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/monotype_corsiva.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/monotype_corsiva.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('fonts/monotype_corsiva.svg') format('svg'); /* Chrome < 4, Legacy iOS */
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+}
+
+
+@font-face {
+	font-family: 'ptserif';
+	src: url('fonts/pt-serif_[allfont.ru].eot');
+	src: local('☺'), url('fonts/pt-serif_[allfont.ru].woff') format('woff'), url('fonts/pt-serif_[allfont.ru].ttf') format('truetype'), url('fonts/pt-serif_[allfont.ru].svg') format('svg');
+	font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+	font-family: 'Chocolatey';
+	src: url('fonts/Quite\ Chocolatey.eot Chocolatey.eot');
+	src: local('☺'), url('fonts/Quite\ Chocolatey.woff Chocolatey.woff') format('woff'), url('fonts/Quite\ Chocolatey.ttf Chocolatey.ttf') format('truetype'), url('fonts/Quite\ Chocolatey.svg Chocolatey.svg') format('svg');
+	font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
