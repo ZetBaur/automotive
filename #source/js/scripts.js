@@ -47,47 +47,10 @@ $(document).ready(function () {
 	// =======================================Slider=========================================================================================
 
 	$('.gallery__column-slider').slick({
-		// dots: true,
-		// infinite: false,
-		// speed: 300,
-		// slidesToShow: 4,
-		// slidesToScroll: 4,
+
 		autoplay: true,
-		// autoplaySpeed: 2000,
 		fade: true,
-		// cssEase: 'linear',
-		// vertical: true,
 		arrows: false,
-		// prevArrow: '<button type="button" class="slick-prev">Previous</button>',
-		// nextArrow: '<button type="button" class="slick-next">Next</button>',
-		// responsive: [
-		// 	{
-		// 		breakpoint: 1024,
-		// 		settings: {
-		// 			slidesToShow: 3,
-		// 			slidesToScroll: 3,
-		// 			infinite: true,
-		// 			dots: true
-		// 		}
-		// 	},
-		// 	{
-		// 		breakpoint: 600,
-		// 		settings: {
-		// 			slidesToShow: 2,
-		// 			slidesToScroll: 2
-		// 		}
-		// 	},
-		// 	{
-		// 		breakpoint: 480,
-		// 		settings: {
-		// 			slidesToShow: 1,
-		// 			slidesToScroll: 1
-		// 		}
-		// 	}
-		// 	// You can unslick at a given breakpoint now by adding:
-		// 	// settings: "unslick"
-		// 	// instead of a settings object
-		// ]
 	});
 
 	// =====================SCROLL TO TOP================================================================================
