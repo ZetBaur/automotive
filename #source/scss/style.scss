@@ -5,11 +5,8 @@ $fontfamily: "ptserif";
 @import "_normalize.scss";
 @import "_null.scss";
 @import "_global.scss";
-@import "_popup.scss";
 @import "_slick.scss";
 @import "_fonts.scss";
-@import "_blocks.scss";
-@import "_icomoon.scss";
 
 // =============================================================================================================================================
 .promo {
@@ -790,6 +787,9 @@ $fontfamily: "ptserif";
         text-decoration: underline;
         text-transform: uppercase;
         letter-spacing: -0.4px;
+        &:hover{
+            color: $red2;
+        }
     }
 }
 
